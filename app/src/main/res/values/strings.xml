@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Catalina Island Boat Express</string>
+    <string name="txtTitle">Catalina Ferry Tickets</string>
+    <string name="imgBoats">Boats</string>
+    <string name="btnCalculate">COMPUTE COST</string>
+    <string-array name="txtGroup">
+        <item>To Catalina Island</item>
+        <item>To Long Beach</item>
+        <item>To Coney Island</item>
+        <item>To Fire Island</item>
+    </string-array>
+    <string name="txtTickets">Number of Tickets</string>
+</resources>
